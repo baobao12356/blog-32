@@ -22,4 +22,3 @@
   - [终极实战(一) - 搞个 Node 的数据服务](https://github.com/mintsweet/blog/issues/2)
   - [终极实战(二) - 用 Pug 模板输出传统网站](https://github.com/mintsweet/blog/issues/3)
   - [终极实战(三) - 来一个 React 后台管理系统](http://github.com/mintsweet/blog/issues/6)
-  - [终极实战(四) - 怎能少了 Vue 的移动版网站](http://github.com/mintsweet/blog/issues/7)
